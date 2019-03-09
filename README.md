@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [CodeIgniter]([https://laravel.com/docs/5.7](https://www.codeigniter.com/user_guide/)) - The web framework used
+* [CodeIgniter]([https://www.codeigniter.com/user_guide/]) - The web framework used
 
 ## Contributing
 
