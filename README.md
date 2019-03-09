@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Laravel](https://laravel.com/docs/5.7) - The web framework used
+* [CodeIgniter]([https://laravel.com/docs/5.7](https://www.codeigniter.com/user_guide/)) - The web framework used
 
 ## Contributing
 
@@ -72,13 +72,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/DBSetyawan/3permata.git). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/DBSetyawan/sistem-manajemen-donatur.git). 
 
 ## Authors
 
-* **3 Permata Logistik** - *Initial work* - [Bitbucket](https://github.org/DBSetyawan)
+* **YDSF Surabaya** - *Initial work* - [Bitbucket](https://github.org/DBSetyawan)
 
-See also the list of [contributors](https://github.com/DBSetyawan/3permata.git) who participated in this project.
+See also the list of [contributors](https://github.com/DBSetyawan/sistem-manajemen-donatur.git) who participated in this project.
 
 ## License
 
@@ -89,4 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * Technology Information
+* Beramal Technology
+* Sodakoh
 
