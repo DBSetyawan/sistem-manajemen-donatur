@@ -1,7 +1,6 @@
-# 3 PERMATA SYSTEMS
+# YDSF SURABAYA
 
-One Paragraph of project description goes here
-berikan suatu paragraph disini
+Aplikasi ini dibuat untuk pengelolahan data donasi pada masyarakat yang melakukan donasi.
 
 ## Getting Started
 
